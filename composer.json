@@ -1,5 +1,5 @@
 {
-    "name": "codegym/charts",
+    "name": "codegym-charts/charts",
     "description": "The laravel charting package",
     "license": "MIT",
     "type": "library",
