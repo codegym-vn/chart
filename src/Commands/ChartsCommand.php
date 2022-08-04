@@ -36,7 +36,7 @@ class ChartsCommand extends GeneratorCommand
      */
     protected function getStub()
     {
-        return __DIR__.'/stubs/chart.stub';
+        return __DIR__ . '/stubs/chart.stub';
     }
 
     /**
